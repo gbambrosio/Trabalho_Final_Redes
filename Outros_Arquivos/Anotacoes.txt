@@ -1,4 +1,4 @@
-Lembrar de colocar a pasta no htdocs e startar o xampp + o mysql
+Lembrar de colocar a pasta no htdocs e startar o apache + o mysql
 
 /************************/
 
@@ -28,4 +28,5 @@ CREATE TABLE IF NOT EXISTIS agendamentos (
 
     -- Data e hora do registro
     data_inscricao TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+
 );
